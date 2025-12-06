@@ -15,7 +15,7 @@ author = "L.Tang"
 [params.homeInfoParams]
 Title = "Hi there!"
 Content = """
-Hi, this is L.Tang. I'm documenting my learning and thinking notes in this log.
+May the force be with you.
 """
 
 # 显示设置
