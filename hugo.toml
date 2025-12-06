@@ -48,7 +48,6 @@ name = "rss"
 url = "/index.xml"
 
 # 菜单
-[menu]
 [[menu.main]]
 name = "Posts"
 url = "/posts/"
@@ -58,6 +57,11 @@ weight = 1
 name = "Search"
 url = "/search/"
 weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 3
 
 # 输出格式（用于搜索功能）
 [outputs]
