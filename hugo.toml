@@ -7,11 +7,7 @@ theme = "PaperMod"
 ShowReadingTime = true
 ShowShareButtons = false
 ShowPostNavLinks = true
-ShowBreadCrumbs: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-
-homeInfoParams:
-    Title: "Welcome \U0001F44B"
-    Content: Hi there, this is L. Tang, I'm documenting my learning notes and thoughts in this blog. This is my personal space for writing and reflection.
+ShowBreadCrumbs = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
