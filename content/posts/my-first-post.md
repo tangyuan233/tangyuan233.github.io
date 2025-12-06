@@ -1,0 +1,15 @@
++++
+date = '2025-12-07T00:28:36+08:00'
+draft = true
+title = 'My First Post'
++++
+
+[练习自信，拥抱自我怀疑](https://mp.weixin.qq.com/s?__biz=MzA4MDYyMTcxOA==&mid=2651284590&idx=1&sn=d0a99f57604a0efbc40959240d91417a&chksm=8452bd97b3253481bc6eafa0a7612ddae9af106f12740f82dc8e1bc0db3415b56959dc0da5a0#rd)
+
+我们头脑里有两个小人，一个是 armchair quarterback，众人皆醉我独醒蜜汁自信那种；一个是觉得自己是 impostor，我不配、我不够好
+
+要自信也要自我怀疑，因此最佳的平衡点（the confidence sweet spot）是 confident humility，对自己心中有数、对自己的方法和认知保持怀疑
+
+承认并且拥抱 Uncertainty，大大方方说自己不确定、不知道。Uncertainty 是我们能够对抗 Dunning-Kruger effect 的最佳工具，它让我们自我怀疑，迫使我们尝试更多的方法、主动向他人请教
+
+训练认识和表达情感的能力，这样才能由内到外接受自己和他人。

@@ -1,0 +1,9 @@
+baseURL = "https://yourusername.github.io/"
+languageCode = "zh-cn"
+title = "L.Tang's Log"
+theme = "PaperMod"
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
